@@ -12136,4 +12136,18 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+body {
+  background-color: #141414;
+}
+body .navbar {
+  background-color: #141414;
+}
+
+body .navbar .img-fluid {
+  height: 50px;
+}
+
+.container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
+  max-width: 60%;
 }/*# sourceMappingURL=style.css.map */
