@@ -11,3 +11,13 @@ body {
 .container-fluid {
   max-width: 60%;
 }
+
+.navbar {
+  .container {
+    padding-inline: 0;
+  }
+}
+
+.dropdown {
+  padding-inline: 0;
+}

@@ -12143,4 +12143,12 @@ body .navbar .img-fluid {
 
 .container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
   max-width: 60%;
+}
+
+.navbar .container {
+  padding-inline: 0;
+}
+
+.dropdown {
+  padding-inline: 0;
 }/*# sourceMappingURL=style.css.map */
