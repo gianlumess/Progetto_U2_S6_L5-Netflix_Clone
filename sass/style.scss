@@ -21,3 +21,12 @@ body {
 .dropdown {
   padding-inline: 0;
 }
+
+section {
+  .img-fluid {
+    transition: 300ms;
+  }
+  .img-fluid:hover {
+    transform: scale(1.1);
+  }
+}
