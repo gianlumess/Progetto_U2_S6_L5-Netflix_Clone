@@ -12235,4 +12235,8 @@ textarea.form-control-lg {
 }
 body .navbar .img-fluid {
   height: 50px;
+}
+
+.container .row .col .img-fluid {
+  max-width: 40px;
 }/*# sourceMappingURL=settings.css.map */
